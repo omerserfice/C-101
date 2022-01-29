@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srfco\\OneDrive\\Masaüstü\\console-programlama\\console-programlama.csproj": {}
+    "C:\\Users\\srfco\\OneDrive\\Masaüstü\\C#101\\console-programlama\\console-programlama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srfco\\OneDrive\\Masaüstü\\console-programlama\\console-programlama.csproj": {
+    "C:\\Users\\srfco\\OneDrive\\Masaüstü\\C#101\\console-programlama\\console-programlama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srfco\\OneDrive\\Masaüstü\\console-programlama\\console-programlama.csproj",
+        "projectUniqueName": "C:\\Users\\srfco\\OneDrive\\Masaüstü\\C#101\\console-programlama\\console-programlama.csproj",
         "projectName": "console-programlama",
-        "projectPath": "C:\\Users\\srfco\\OneDrive\\Masaüstü\\console-programlama\\console-programlama.csproj",
+        "projectPath": "C:\\Users\\srfco\\OneDrive\\Masaüstü\\C#101\\console-programlama\\console-programlama.csproj",
         "packagesPath": "C:\\Users\\srfco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srfco\\OneDrive\\Masaüstü\\console-programlama\\obj\\",
+        "outputPath": "C:\\Users\\srfco\\OneDrive\\Masaüstü\\C#101\\console-programlama\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\srfco\\AppData\\Roaming\\NuGet\\NuGet.Config"
